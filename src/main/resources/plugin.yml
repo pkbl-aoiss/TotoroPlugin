@@ -1,0 +1,5 @@
+name: totoro
+version: '${version}'
+main: net.aoissx.mc.plugin.net.aoissx.mc.plugin.totoro.Net.aoissx.mc.plugin.totoro
+api-version: 1.18
+authors: [ aoi ]
